@@ -4,8 +4,11 @@
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Aleksei_Kohnuk)
