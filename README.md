@@ -1,6 +1,6 @@
 ![Новое изображение](https://user-images.githubusercontent.com/53658148/195320792-042e6b96-639f-4fdb-bf94-ba9c401ff707.jpg)
 
-## I`m a beginner Python Software Engineer
+## Python Software Engineer
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
