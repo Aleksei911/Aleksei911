@@ -6,9 +6,11 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git)
-![SQLite](https://img.shields.io/badge/-SQLite-090909?style=for-the-badge&logo=SQLite)
+![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=Nginx)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-090909?style=for-the-badge&logo=Gunicorn)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker)
 
